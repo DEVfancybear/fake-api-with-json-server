@@ -99,47 +99,5 @@
     { "id": 23, "color": "Aquamarine", "city": "Banjar Paangkelod" },
     { "id": 24, "color": "Crimson", "city": "Ciherang" },
     { "id": 25, "color": "Orange", "city": "Fernandópolis" }
-  ],
-  "images": [
-    {
-      "id": 1,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3ljg0d-8f362b00-a285-4dc8-acb9-34114f915f98.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDNsamcwZC04ZjM2MmIwMC1hMjg1LTRkYzgtYWNiOS0zNDExNGY5MTVmOTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3_VS6TkxOzZpSjHTxmSulIXxwj2hSs7UmF1aNfmLkcg"
-    },
-    {
-      "id": 2,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3lntok-1b9d2f0b-5e0c-4536-b72a-363761cae902.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDNsbnRvay0xYjlkMmYwYi01ZTBjLTQ1MzYtYjcyYS0zNjM3NjFjYWU5MDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Wi3wRqKrFoAhNj8ndfeCv66JEUDPY7uupiWK7PaIG8c"
-    },
-    {
-      "id": 3,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3mymow-44d95a3f-e702-407c-90d4-af4cf2128c3d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDNteW1vdy00NGQ5NWEzZi1lNzAyLTQwN2MtOTBkNC1hZjRjZjIxMjhjM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._mHTWLPMUqx8NF_TmYIIlZnF_NjNChy-iTRjRuzvqXY"
-    },
-    {
-      "id": 4,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3nfgbp-714d1d3c-5522-4a16-bef4-c52fb1a96a79.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDNuZmdicC03MTRkMWQzYy01NTIyLTRhMTYtYmVmNC1jNTJmYjFhOTZhNzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._X9OvJ-JFI5h54ddHbNhWrTIpB2AEr6nNWExUQ1z4GU"
-    },
-    {
-      "id": 5,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3nq3tn-93d1f4a1-fdee-418f-9be8-87055ce0ff3c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDNucTN0bi05M2QxZjRhMS1mZGVlLTQxOGYtOWJlOC04NzA1NWNlMGZmM2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4nFIc8QDHtdRQHVwXU8ArpEbKV2uPaC-w5tHIeejkjg"
-    },
-    {
-      "id": 6,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3r95fk-80856216-3fca-4ddf-b11a-1feed6dd294c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDNyOTVmay04MDg1NjIxNi0zZmNhLTRkZGYtYjExYS0xZmVlZDZkZDI5NGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aiL0UyWG-ON9EVWXzY2-V8UjI4NWo9Ix6NEOH7ZNeKQ"
-    },
-    {
-      "id": 7,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3sdi2w-5f133779-48db-43f6-b729-5663468adfef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDNzZGkydy01ZjEzMzc3OS00OGRiLTQzZjYtYjcyOS01NjYzNDY4YWRmZWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xT0ttvwBm0-4yFQrL7-ARqFWwI8U0Thur50vBrLYpsY"
-    },
-    {
-      "id": 8,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d3xw5hx-835ca5c9-211b-4b36-9de2-a5ac463174f1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDN4dzVoeC04MzVjYTVjOS0yMTFiLTRiMzYtOWRlMi1hNWFjNDYzMTc0ZjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UJvKwslDUwy-o4nR11OqGWTXUgAuVcyhudvrZk8qJ08"
-    },
-    {
-      "id": 9,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d40gs6h-a7c85f89-03c6-4137-b1c4-72f067dd7bb1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDQwZ3M2aC1hN2M4NWY4OS0wM2M2LTQxMzctYjFjNC03MmYwNjdkZDdiYjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TqBO7Wywvc72RQw1vIdyrzBsk-lqJ7ZDPnVVp9cGmec"
-    },
-    {
-      "id": 10,
-      "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff44d2b7-ee16-46f4-b237-85abbcc4cc08/d40zfx5-a0ebe035-4522-48aa-b322-364cabf29c2d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmNDRkMmI3LWVlMTYtNDZmNC1iMjM3LTg1YWJiY2M0Y2MwOFwvZDQwemZ4NS1hMGViZTAzNS00NTIyLTQ4YWEtYjMyMi0zNjRjYWJmMjljMmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O5NdvLHsl9CG7FUJa6287Otu5w551VivsHFxS7pLvdM"
-    }
   ]
 }
